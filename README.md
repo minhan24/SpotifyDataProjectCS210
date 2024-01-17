@@ -1,1 +1,1 @@
-# SpotifyDataProjectCS210
+# Spotify Data Project for CS210 Sabancı University
